@@ -1,0 +1,20 @@
+version = "2.2.0+0"
+name = "H5ZbshufC_jll"
+uuid = "6e59611b-9e7e-5fe3-8132-84a26cc9dc85"
+
+[deps]
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+HDF5_jll = "0234f1f7-429e-5d53-9886-15a909be8d59"
+Zstd_jll = "3161d3a3-bdf6-5164-811a-617609db77b4"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+Lz4_jll = "5ced341a-0733-55b8-9ab6-a4889d929147"
+
+[compat]
+Libdl = "< 0.0.1, 1"
+julia = "1.10"
+JLLWrappers = "1.7.0"
+HDF5_jll = "~2.2.3"
+Zstd_jll = "1.5.7"
+Artifacts = "< 0.0.1, 1"
+Lz4_jll = "1.10.1"
